@@ -1,6 +1,6 @@
-# simple-neural-network
+# simple-neural-network made in C
 
-A simple Neural Network with 4 neurons<br>
+A simple Neural Network with 4 neurons with greater scalability<br>
 
 Representation of the network:<br>
 
