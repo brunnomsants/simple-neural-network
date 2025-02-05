@@ -11,4 +11,4 @@ Representation of the XOR function:<br>
 
 ![image](https://github.com/user-attachments/assets/07663c2c-a912-4413-a708-888682f31631)
 <br>
-Working on it.
+Working on it, need upgrades.
