@@ -1,6 +1,6 @@
 # simple-neural-network made in C
 
-A simple Neural Network with 4 neurons with greater scalability<br>
+A simple Neural Network with 4 neurons that learn XOR function with greater scalability<br>
 
 Representation of the network:<br>
 
